@@ -117,6 +117,8 @@ python train_fold.py
 ```
 The default fold number is 5.
 
+---
+
 ## Citation
 
 ```
