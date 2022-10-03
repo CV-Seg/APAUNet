@@ -1,6 +1,6 @@
 # APAUNet
 
-![framework](.\figure\teaser.png)
+![framework](./figure/teaser.png)
 
 ## Introduction
 ---
