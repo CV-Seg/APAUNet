@@ -2,8 +2,10 @@
 
 ![framework](./figure/teaser.png)
 
-## Introduction
 ---
+
+## Introduction
+
 By [Yuncheng Jiang*](https://scholar.google.com/citations?user=v5jDFU8AAAAJ&hl=zh-CN), [Zixun Zhang*](https://scholar.google.com/citations?user=13FeVFsAAAAJ&hl=zh-CN), [Shixi Qin](), [Yao guo](), [Zhen Li](https://scholar.google.com/citations?user=0TTt3QsAAAAJ&hl=zh-CN), [Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=zh-CN).
 
 This repo is an PyTorch implementation of ["APAUNet: Axis Projection Attention UNet for Small Target Segmentation in 3D Medical Images"](), accepted by ACCV 2022.
